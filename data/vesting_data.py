@@ -465,7 +465,7 @@ public_allocations = {
         "vesting": [
             {
                 "group": "Community",
-                "allocation": 385217360,``
+                "allocation": 385217360,
                 "cliff": 0,
                 "cliff_amt": 0,
                 "vesting_frequency": "monthly",
